@@ -1,2 +1,2 @@
-# csce531
+# CSCE531
 Compilers
