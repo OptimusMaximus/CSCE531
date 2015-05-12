@@ -1,2 +1,2 @@
 # CSCE531
-Compilers
+Process Pascal global type and variable declarations
